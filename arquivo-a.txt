@@ -1,3 +1,4 @@
 Arquivo teste a
 Editado no github.
 Editado na minha máquina
+Editado em minha máquina v2
